@@ -1,14 +1,14 @@
 [
 {
-  id="": 0,
-  title="": "Customize Theme for Galaxy S7 Edge",
-  package_name="": "com.creativestoredev.custom.theme.for.s7.edge",
-  thumbnail="": "https://lh3.googleusercontent.com/e236E8HkCVYM_314UeriDGy3baKPrtSADrDStX0g_DFeylyQxvIy0pKf1Gc6dhL5H8E5=w300-rw"
+  "id": 0,
+  "title": "Customize Theme for Galaxy S7 Edge",
+  "package_name": "com.creativestoredev.custom.theme.for.s7.edge",
+  "thumbnail": "https://lh3.googleusercontent.com/e236E8HkCVYM_314UeriDGy3baKPrtSADrDStX0g_DFeylyQxvIy0pKf1Gc6dhL5H8E5=w300-rw"
 },
 {
-  id="": 1,
-  title="": "Customize Theme for iPhone 8",
-  package_name="": "com.creativestoredev.custom.theme.for.iphone8",
-  thumbnail="": "https://lh3.googleusercontent.com/X0X8Tb5zcbnImiqq9M8HlwRh1F_v7LUOUzKmevxNP1iz3EYmStCRktqglAKfBIcCgPGe=w300-rw"
+  "id": 1,
+  "title": "Customize Theme for iPhone 8",
+  "package_name": "com.creativestoredev.custom.theme.for.iphone8",
+  "thumbnail": "https://lh3.googleusercontent.com/X0X8Tb5zcbnImiqq9M8HlwRh1F_v7LUOUzKmevxNP1iz3EYmStCRktqglAKfBIcCgPGe=w300-rw"
 },
 ]
